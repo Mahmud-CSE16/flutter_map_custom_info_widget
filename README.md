@@ -1,4 +1,4 @@
-# fluttermapcustominfowidget
+# Flutter Map Custom Info Widget
 
 A new Flutter application.
 
